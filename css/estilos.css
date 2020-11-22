@@ -1,0 +1,40 @@
+            body{
+                background-color: beige;
+                width: 960px;
+                margin: 0 auto;
+            }
+            h1{
+                text-align: center;
+            }
+            #pantalla{
+                border: groove 18px gold;
+                background: white;   
+            }
+            #boton{
+                background-color: white;
+                color: black;
+                display:block;
+                font-size: 1.25em;
+                text-align: center;
+                font-weight: bolder;
+                margin:18px;
+                padding: 10px 0px;
+                border: solid 3px gold;
+                width: 400px;
+                text-decoration:none;
+                box-shadow:0px 3px 0px #ffbf00; 
+
+            }
+            #boton:hover{
+                background-color: gold;
+                font-size: 22px;
+                border: groove 2px gold;
+            }
+            footer{
+                align-self: flex-end;
+                background-color: gold;
+                line-height: 3;
+                text-align: center;
+                width: 100%;
+                border: solid 4px gold;
+            }
