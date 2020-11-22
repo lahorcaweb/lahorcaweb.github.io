@@ -1,0 +1,18 @@
+Lista de palabras para la verson de la HORCA WEB 
+
+palabras que iran dentro del array.push("HTML");
+
+1.-OBJETOS
+2.-DATOS
+3.-ELSE
+4.-PALETTONN
+5.-PYTHONTUTOR
+6.-ESTILOS
+7.-METODOS
+8.-EJEMPLO
+9.-SITIO
+10.-LENGUAJE
+11.-PROGRAMA
+12.-CODIGOS
+13.-ARREGLOS
+14.-CICLOS
